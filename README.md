@@ -2,7 +2,7 @@
 
 Getting Started
 
-Fork and clone this repository to your computer
-Run npm install to install dependencies
-Look in the starter file called index.js, run nodemon to start local server on port 3000
-Open localhost:3000 on your browser and see the home page
+1. Fork and clone this repository to your computer
+2. Run npm install to install dependencies
+3. Look in the starter file called pokedex.js, run nodemon to start local server on port 3000
+4. Open localhost:3000 on your browser and see the home page
