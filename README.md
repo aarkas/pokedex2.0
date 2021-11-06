@@ -3,6 +3,7 @@
 
 The homepage displays the Kanto Pokedex by default. This can be changed in pokedex.js by switching out the variable for the Pokedex region. 
 
+Known error: Pokedex not in the right order. 
 
 
 Getting Started
