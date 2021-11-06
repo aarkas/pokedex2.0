@@ -175,7 +175,7 @@ ul {
 }
 
 .details .back-button {
-  background: url("../assets/left-arrow.svg");
+  background: url("./left-arrow.svg");
   position: absolute;
   width: 90px;
   height: 90px;
